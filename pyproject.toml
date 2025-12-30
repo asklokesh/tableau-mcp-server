@@ -28,3 +28,6 @@ dev = [
 
 [project.scripts]
 tableau-mcp = "tableau_mcp.server:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/tableau_mcp"]
