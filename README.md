@@ -1,5 +1,7 @@
 # Tableau MCP Server
 
+<!-- mcp-name: io.github.asklokesh/tableau-mcp-server -->
+
 <div align="center">
 
 # Tableau Mcp Server
